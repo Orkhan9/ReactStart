@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
-import App from "./App";
 
-class Users extends Component {
+class Brands extends Component {
 
 
 
@@ -16,4 +15,4 @@ class Users extends Component {
     }
 }
 
-export default Users;
+export default Brands;
